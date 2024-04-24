@@ -1,1 +1,1 @@
-# welcome my chanel
+# welcome my channel
