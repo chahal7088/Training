@@ -29,3 +29,8 @@ Author- Sunny Chahal
     The transport layer is the first of four “host” layers with the rest referred to as “media” layers. The transport layer PDU is the “segment” or “datagram”.
     This layer manages the transmission of data between nodes, including ensuring that data arrives in the correct sequence and that any errors are corrected.
     The Transmission Control Protocol (TCP) operates at Layer 4
+ 
+5.   Network Layer
+
+     The network layer has two main functions. One is breaking up segments into network packets, and reassembling the packets on the receiving end.
+     The other is routing packets by discovering the best path across a physical network. The network layer uses network addresses (typically Internet Protocol addresses) to route packets to a destination node.
