@@ -10,3 +10,22 @@ Author- Sunny Chahal
    network and for displaying the received information to the user. 
 
    Example: Application – Browsers, Skype Messenger, etc. 
+
+2. The Presentation Layer
+  
+   The presentation layer is primarily responsible for translating data from network data to the formats expected by an application.
+   For example, data encodings and encryption are managed at Layer
+
+3.  The Session Layer
+
+    The session layer manages sessions between nodes and acts on the “data” PDU. Session management includes setup, authentication, termination, and reconnections.
+    This layer allows users on different machines to establish active communications sessions between them. It is responsible for establishing, maintaining, synchronizing,
+    terminating sessions between end-user applications. In Session Layer, streams of data are received and further marked, which is then resynchronized properly, so that
+    the ends of the messages are not cut initially and further data loss is avoided. This layer basically establishes a connection between the session entities.
+    This layer handles and manipulates data which it receives from the Session Layer as well as from the Presentation Layer.
+
+4.  The Transport Layer
+
+    The transport layer is the first of four “host” layers with the rest referred to as “media” layers. The transport layer PDU is the “segment” or “datagram”.
+    This layer manages the transmission of data between nodes, including ensuring that data arrives in the correct sequence and that any errors are corrected.
+    The Transmission Control Protocol (TCP) operates at Layer 4
