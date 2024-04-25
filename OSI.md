@@ -38,3 +38,8 @@ Author- Sunny Chahal
 
    The data link layer breaks data to be transmitted into frames for transmission at the physical layer. It also manages connections between two different nodes,
    including setting up the connection, identifying and correcting any bit errors that occur at the physical layer,and terminating the connection once the session is complete.
+
+7. The Physical Layer
+
+   The physical layer is where the raw bitstream is physically transmitted over a physical medium. The Layer 1 PDU is the “symbol”.
+   This includes translating bits to electricity, light, or radio signals and controlling the rates at which they are sent over the chosen medium.
