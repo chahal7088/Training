@@ -49,9 +49,3 @@
     -   The lowest layer of the OSI model.
     -   Responsible for the physical connection between devices.
     -   Transmits individual bits from one node to the next.
-
-   #  MAC ADDRESS
-
-   -   Media Access control Address, Physical and hardware gets to know. network adapter can be digested. Mac address unique, permanent address.
-       can not be changed . Mac address 48 bit mac address divided into 6 parts. each part has 8 bit (1 byte ).
-
