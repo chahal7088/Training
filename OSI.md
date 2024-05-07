@@ -15,7 +15,7 @@
      -  Ensures data is in a format that both sender and receiver can understand.
      -  Examples of Presentation Layer tasks: Data encryption, character encoding, and data compression.
     
-3. ##### The Session Layer
+3. #### The Session Layer
 
      -  Manages sessions (dialogues) between applications.
      -  Establishes, maintains, and terminates connections.
